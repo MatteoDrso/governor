@@ -1,5 +1,6 @@
 # governor
 Governor for the power optimization of inference on AlexNet on the Khadas VIM3 development board using software pipelining. The Khadas VIM3 development board is based on the Amlogic A311D heterogeneous multiprocessor system-on-chip (HMPSoC)).
+This project is born from a course at Universiteit van Amsterdam. I shared it as I happened to find it very interesting.
 
 ## Overview
 
